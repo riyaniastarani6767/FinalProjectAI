@@ -14,7 +14,7 @@ The system demonstrates **sentiment analysis, classification, and web integratio
 ## Features
 - **Mood Classification:** Predicts user mood using Multinomial Naive Bayes  
 - **Feature Extraction:** TF-IDF vectorization for text representation  
-- **Web Integration:** Flask-based web interface for user interaction  
+- **Web Integration:** Streamlit web interface for user interaction  
 - **Real-Time Prediction:** Instant mood detection and meal recommendation  
 - **Visualization:** Displays mood results and related food suggestions dynamically  
 
